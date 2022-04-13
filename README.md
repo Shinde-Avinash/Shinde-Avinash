@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vi_10
-- 👀 I’m interested in ... Python programming
-- 🌱 I’m currently learning ... Electronic & communications
-- 💞️ I’m looking to collaborate on ... Python- Django-Web Devlopment
+- 👀 I’m interested in ... c# programming
+- 🌱 I’m currently learning ... .NET
+- 💞️ I’m looking to collaborate on ... C#,.NET 
 - 📫 How to reach me ... shindeavinashr2017@gmail.com
 
 <!---
