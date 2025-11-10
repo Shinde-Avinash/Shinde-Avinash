@@ -25,6 +25,7 @@
 * 🔗 **Connect with me:**
   * LinkedIn: [Avinash Shinde](https://linkedin.com/in/avinash-shinde-7628b91a5)
   * GitHub: [Shinde-Avinash](https://github.com/Shinde-Avinash)
+  * Hackerrank: [Avinash Shinde](https://www.hackerrank.com/profile/shindeavinashr21)
   * 📱 Phone: +91 9890691272
 
 ---
