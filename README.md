@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Avinash Shinde
 
 ## 🌟 See my Portfolio
-🔗 [Access Link](https://shinde-avinash.github.io/My-Portfolio/)
+🔗 [Portfolio Link](https://shinde-avinash.github.io/My-Portfolio/)
 
 * 🤔 I'm working as a ---> **ColdFusion Developer** <---
 * 🌱 **Current Focus:** Full-stack development, SQL optimization
